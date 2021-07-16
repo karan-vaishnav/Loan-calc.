@@ -11,4 +11,4 @@ This is a simple Loan Calculator that can be used to calculate the monthly Payme
 ### Links
 Solution URL- https://github.com/karan-vaishnav/Loan-calc..git
 
-Live Site URL- http://127.0.0.1:5500/
+Live Site URL- https://loan-klc.netlify.app/
